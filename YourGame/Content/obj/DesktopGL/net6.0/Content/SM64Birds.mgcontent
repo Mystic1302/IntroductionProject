@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>H:/UU/TA/2023-2024/Introproject/IntroductionProject/YourGame/Content/SM64Birds.ogg</SourceFile>
+  <SourceTime>2023-11-15T02:59:44.2023447+01:00</SourceTime>
+  <DestFile>H:/UU/TA/2023-2024/Introproject/IntroductionProject/YourGame/Content/bin/DesktopGL/Content/SM64Birds.xnb</DestFile>
+  <DestTime>2023-11-15T03:07:14.7781897+01:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>H:/UU/TA/2023-2024/Introproject/IntroductionProject/YourGame/Content/bin/DesktopGL/Content/SM64Birds.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

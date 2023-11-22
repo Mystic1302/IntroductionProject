@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>H:/UU/TA/2023-2024/Introproject/IntroductionProject/YourGame/Content/Nintendo GBA Startup.wav</SourceFile>
+  <SourceTime>2023-11-15T01:56:32.3872833+01:00</SourceTime>
+  <DestFile>H:/UU/TA/2023-2024/Introproject/IntroductionProject/YourGame/Content/bin/DesktopGL/Nintendo GBA Startup.xnb</DestFile>
+  <DestTime>2023-11-15T03:07:08.7887003+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
